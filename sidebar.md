@@ -13,8 +13,8 @@
 
 - 版本管理
 	- Git
-		- [Git例子](#docs\Linux\版本管理\Git\Git例子)
-		- [Git命令速查](#docs\Linux\版本管理\Git\Git命令速查)
+		- [Git例子](#docs/Linux/版本管理/Git/Git例子)
+		- [Git命令速查](#docs/Linux/版本管理/Git/Git命令速查)
 
 
 ## Windows
