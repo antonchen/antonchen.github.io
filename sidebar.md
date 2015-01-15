@@ -10,8 +10,8 @@
 - SQL
 
 - System
-	- [DVD光盘搭建Yum源服务器](#docs/Linux/System/DVD光盘搭建Yum源服务器)
 	- [修复Grub2引导](#docs/Linux/System/修复Grub2引导)
+	- [DVD光盘搭建Yum源服务器](#docs/Linux/System/DVD光盘搭建Yum源服务器)
     
 - Data
 
